@@ -1,4 +1,9 @@
 ## Multi agent conversations
+Post Link:
+
+    https://www.linkedin.com/pulse/ai-llm-powered-application-programming-kameshwar-singh-tymsc?trk=public_post_feed-article-content
+    https://concept2code.substack.com/p/ai-and-llm-led-solution-and-application
+
 
 ### Install LM studio on local Windows or Mac
 
